@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T00:14:18.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="23.1.7" etag="BDtikbRT1S3ft7sTjs6e" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T00:17:33.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="bXoP-fJCiWRxFt5JsdOs" version="23.1.7" type="github">
   <diagram name="Page-1" id="IAh_vhLgAVYulzcI-Uxm">
-    <mxGraphModel>
+    <mxGraphModel dx="2066" dy="1111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L16H-KI_9fECXoWEGpVT-1" value="Profile&lt;br&gt;Pic" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-2" value="Search Bar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="25" width="390" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Jungle&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Item Pic&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-5" value="Item Description:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="200" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-6" value="Item Description:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-7" value="Item Description:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="320" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-8" value="Item Description:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="380" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-9" value="Comment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-10" value="Comment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-11" value="Comment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-12" value="Comment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L16H-KI_9fECXoWEGpVT-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Footer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1030" width="850" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
